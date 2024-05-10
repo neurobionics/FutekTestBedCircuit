@@ -13,5 +13,5 @@ Relevant Resources to Use:
 - The KiCAD Schematic (see KiCAD Schema File)
 - The KiCAD PCB Design
 - JLC PCB Account [For Ordering] - reach out to @Japmanjeet Singh Gill for login details 
-- BOM and CPL Files (See ORDER Package Folder)
+- BOM and CPL Files (See FinalOrderingPackage Folder)
 
