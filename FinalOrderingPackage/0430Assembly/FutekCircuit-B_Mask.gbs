@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-04-30T20:07:41-04:00*%
+%TF.ProjectId,FutekCircuit,46757465-6b43-4697-9263-7569742e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-04-30 20:07:41*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.701800*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X167640000Y-101600000D03*
+X167640000Y-105100001D03*
+X167640000Y-108600001D03*
+%TD*%
+%TO.C,J2*%
+X167513000Y-83820000D03*
+X167513000Y-87320001D03*
+X167513000Y-90820001D03*
+%TD*%
+M02*
