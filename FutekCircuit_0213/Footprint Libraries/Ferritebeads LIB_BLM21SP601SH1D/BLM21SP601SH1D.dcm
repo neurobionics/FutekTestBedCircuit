@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM21SP601SH1D
+D BLM21_H1D Series EMI Suppression Filter 600+/-25% at 100MHz 2.3A @85
+K
+F https://www.murata.com/en-us/products/productdetail?partno=BLM21SP601SH1%23
+$ENDCMP
+#
+#End Doc Library

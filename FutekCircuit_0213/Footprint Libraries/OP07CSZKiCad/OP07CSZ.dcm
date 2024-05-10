@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OP07CSZ
+D OP07CSZ, Precision Operational Amplifier, 8-Pin SOIC
+K
+F http://www.analog.com/static/imported-files/data_sheets/OP07.pdf
+$ENDCMP
+#
+#End Doc Library

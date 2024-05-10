@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRCW020110K0FNED
+D Thick Film Resistors - SMD 1/20watt 10Kohms 1% 200ppm
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+#End Doc Library
